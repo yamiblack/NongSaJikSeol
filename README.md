@@ -6,3 +6,11 @@
   - 박지홍
   - [양예원](https://github.com/YangYangYewon)
   - [이주형](https://github.com/yamiblack) 
+  - 기술 멘토 : [강민구](https://github.com/minqukanq)
+</br>
+
+## 주제 및 기대효과
+
+
+
+
