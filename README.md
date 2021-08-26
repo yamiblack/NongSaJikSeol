@@ -19,6 +19,14 @@
 ## 발표 영상
 <br>
 
+## 변수 선정
+![image](https://user-images.githubusercontent.com/50551349/131014654-ac4e23a6-090d-4ecd-bd08-03eabc2f8669.png)
+<br>
+
+## 데이터 출처
+![image](https://user-images.githubusercontent.com/50551349/131014702-3f8fee9f-6853-4e51-ad07-0393bce02e2b.png)
+<br>
+
 ## 프로젝트 결과
 <br>
 
