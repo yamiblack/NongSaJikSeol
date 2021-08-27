@@ -50,7 +50,7 @@
 - LSTM과 다르게 Transformer에서는 epoch가 증가할수록 성능도 상승 
 <br>
 
-## 7. 사용 기술 스택
+## 사용 기술 스택
 - Python
 - PyTorch
 - Pandas
